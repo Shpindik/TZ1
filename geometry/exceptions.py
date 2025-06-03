@@ -1,0 +1,2 @@
+class InvalidTriangleError(Exception):
+    pass
